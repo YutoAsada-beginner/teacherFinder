@@ -1,0 +1,38 @@
+body {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    height: 100vh;
+  }
+
+
+select {
+    padding: 5px;
+    border-radius: 5px;
+    border: 1px solid #ccc;
+    width: 200px;
+    margin-bottom: 10px;
+  }
+  
+
+  button {
+    padding: 5px 10px;
+    border-radius: 5px;
+    border: none;
+    background-color: #007bff;
+    color: #fff;
+    cursor: pointer;
+  }
+
+  h1 {
+    font-size: 36px;
+    text-align: center;
+    color: #007bff;
+    text-shadow: 2px 2px #ccc;
+  }
+
+  h1, h2 {
+    font-family: Arial, sans-serif;
+    font-weight: bold;
+    margin-bottom: 10px;
+  }
